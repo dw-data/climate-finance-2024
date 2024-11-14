@@ -5,7 +5,7 @@ Industrialized countries have contributed most to the climate crisis but poorer 
 *In this repository, you will find the methodology and data behind
 the story that came out of this analysis.*
 
-Read the full story on DW.com: [EN](https://www.dw.com/a-xx)
+Read the full story on DW.com: [EN](https://www.dw.com/a-70773548)
 
 ## Datasets
 
